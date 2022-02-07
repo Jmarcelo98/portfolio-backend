@@ -12,8 +12,8 @@ public class ExperienciaService {
 	Calendar dataDeInicio = Calendar.getInstance();
 	Calendar dataAtual = Calendar.getInstance();
 
-	final int ANO_INICIO = 2021;
-	final int MES_INICIO = 9;
+	final int ANO_INICIO = 2019;
+	final int MES_INICIO = 10;
 	final int DIA_INICIO = 1;
 
 	public Experiencia calcularTempoExperiencia() {
